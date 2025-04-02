@@ -16,6 +16,12 @@ Crypto Basket Price Predictor is a machine learning-powered application that pre
 
 This tool combines technical analysis (like RSI and Moving Averages) with sentiment indicators (like the Fear & Greed Index) to help users better understand crypto market movements and anticipate price fluctuations with greater accuracy.
 
+![image](https://github.com/user-attachments/assets/f04ae55e-c172-4522-90b4-e5a1870b4c34)
+
+![image](https://github.com/user-attachments/assets/2c3e5f0b-4515-4811-a6e8-ac8a9da6d763)
+
+![image](https://github.com/user-attachments/assets/66d16b6b-0f43-4975-a3c7-eff724a68394)
+
 ## Why it stands out
 
 - 🥇 **Hackathon Winner** – Built in 48 hours for Uphold, delivering real insights for real users.
